@@ -1,4 +1,21 @@
 .App {
   text-align: center;
-  display: flex;
+  margin: 30px 100px;
+}
+
+hr {
+  border-bottom:3px dotted #000;
+  /*Rest of stuff here*/
+}
+
+.card {
+  background-color: wheat;
+  padding: 30px;
+  margin: 30px;
+  border-radius: 50px;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
 }
